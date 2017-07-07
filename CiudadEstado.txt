@@ -1,0 +1,77 @@
+Aguascalientes 	Aguascalientes
+Ensenada 	Baja California
+Mexicali 	Baja California
+Tijuana 	Baja California
+La Paz 	Baja California Sur
+Los Cabos 	Baja California Sur
+Campeche 	Campeche
+Ciudad del Carmen 	Campeche
+Saltillo 	Coahuila de Zaragoza
+Monclova-Frontera 	Coahuila de Zaragoza
+La Laguna 	Coahuila de Zaragoza
+Piedras Negras 	Coahuila de Zaragoza
+Tecomán 	Colima
+Colima-Villa de Álvarez 	Colima
+Manzanillo 	Colima
+Tuxtla Gutiérrez 	Chiapas
+Tapachula 	Chiapas
+Chihuahua 	Chihuahua
+Juárez 	Chihuahua
+Valle de México 	Distrito Federal
+Durango 	Durango
+Celaya 	Guanajuato
+Guanajuato 	Guanajuato
+Irapuato 	Guanajuato
+León 	Guanajuato
+La Piedad-Pénjamo 	Guanajuato
+San Francisco del Rincón 	Guanajuato
+Salamanca 	Guanajuato
+Acapulco 	Guerrero
+Chilpancingo 	Guerrero
+Tula 	Hidalgo
+Tulancingo 	Hidalgo
+Pachuca 	Hidalgo
+Guadalajara 	Jalisco
+Ocotlán 	Jalisco
+Puerto Vallarta 	Jalisco
+Toluca 	México
+Zamora-Jacona 	Michoacán de Ocampo
+Morelia 	Michoacán de Ocampo
+Uruapan 	Michoacán de Ocampo
+Cuautla 	Morelos
+Cuernavaca 	Morelos
+Tepic 	Nayarit
+Monterrey 	Nuevo León
+Oaxaca 	Oaxaca
+Tehuantepec-Salina Cruz 	Oaxaca
+Puebla-Tlaxcala 	Puebla
+Tehuacán 	Puebla
+Querétaro 	Querétaro
+San Juan del Río 	Querétaro
+Cancún 	Quintana Roo
+Chetumal 	Quintana Roo
+Rioverde-Ciudad Fernández 	San Luis Potosí
+San Luis Potosí-Soledad 	San Luis Potosí
+Los Mochis 	Sinaloa
+Culiacán 	Sinaloa
+Mazatlán 	Sinaloa
+Ciudad Obregón 	Sonora
+Guaymas 	Sonora
+Hermosillo 	Sonora
+Cárdenas 	Tabasco
+Villahermosa 	Tabasco
+Tampico-Pánuco 	Tamaulipas
+Matamoros 	Tamaulipas
+Nuevo Laredo 	Tamaulipas
+Reynosa-Río Bravo 	Tamaulipas
+Ciudad Victoria 	Tamaulipas
+Tlaxcala-Apizaco 	Tlaxcala
+Veracruz 	Veracruz de Ignacio de la Llave
+Córdoba 	Veracruz de Ignacio de la Llave
+Orizaba 	Veracruz de Ignacio de la Llave
+Xalapa 	Veracruz de Ignacio de la Llave
+Poza Rica 	Veracruz de Ignacio de la Llave
+Coatzacoalcos 	Veracruz de Ignacio de la Llave
+Minatitlán 	Veracruz de Ignacio de la Llave
+Mérida 	Yucatán
+Zacatecas-Guadalupe 	Zacatecas

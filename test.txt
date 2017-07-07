@@ -1,0 +1,4 @@
+hola, esto
+es una prueba
+de lectura
+a stream
